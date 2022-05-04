@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Model detail"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="model detail"/>
+			<item value="renderTable"/>
+			<item value="String text"/>
+			<item value="render"/>
+			<item value="textformat"/>
+			<item value="|"/>
+			<item value="indexFund "/>
+			<item value="indexFund"/>
+			<item value="createModel"/>
+			<item value="createm"/>
+			<item value="create mode"/>
+			<item value="performance"/>
+			<item value="monkey"/>
+			<item value="the remain"/>
+			<item value="index"/>
+		</list>
+		<list key="replacehistory">
+			<item value="07-01"/>
+			<item value="01-01"/>
+			<item value="11-01"/>
+			<item value="10-01"/>
+			<item value="09-01"/>
+			<item value="08-01"/>
+			<item value="06-01"/>
+			<item value="05-01"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="941"/>
+		<item key="DIALOG_Y_ORIGIN" value="414"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="402"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

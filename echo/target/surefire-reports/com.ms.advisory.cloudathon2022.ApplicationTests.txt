@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ms.advisory.cloudathon2022.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.793 s - in com.ms.advisory.cloudathon2022.ApplicationTests

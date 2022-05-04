@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/bdarapu/Projects/Cloudathon2022/BotFramework/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1481325284.index
+1085604298.index
+1739267872.index
+2158948399.index
+1467788199.index
+2357603950.index
